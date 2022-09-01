@@ -1,5 +1,4 @@
-# MaratonaExplorer3.0
-Projeto realizado na maratona explorer promovido pela Rocketseat durantes os dias 07.08. e 10.08.
+Projeto realizado na maratona explorer promovido pela Rocketseat durante os dias 07.08. e 10.08.
 <br>
 Link de visualização: https://maratonaexplorer03.netlify.app/
 <br>

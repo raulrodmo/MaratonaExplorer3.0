@@ -1,4 +1,4 @@
-Projeto realizado na maratona explorer promovido pela Rocketseat durante os dias 07.08. e 10.08.
+Projeto realizado durante a maratona explorer promovida pela Rocketseat durante os dias 07.08.2022 e 10.08.2022. O projeto consiste em um cardápio virtual que exibe produtos e respectivos preços
 <br>
 Link de visualização: https://maratonaexplorer03.netlify.app/
 <br>
